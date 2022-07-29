@@ -1,0 +1,16 @@
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+G:\Temp\RevisaoPooNelioAlves\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache
